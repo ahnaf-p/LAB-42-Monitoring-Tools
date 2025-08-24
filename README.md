@@ -43,7 +43,7 @@ Sabtu 23 Agustus 2025
 
 # SNMP (Simple Network Management Protocol)  
   Memungkinkan pengawasan router melalui aplikasi eksternal seperti Cacti atau Zabbix. Data yang dikirim mencakup CPU load, penggunaan memori hingga trafik interface.  
-  Pergi ke terminal dan ketik *snmp set enabled=yes*
+  Pergi ke terminal dan ketik *snmp set enabled=yes*  
      ![](IMAGES/smp.png)  
   Setelah diaktifkan, router dapat dipantau menggunakan aplikasi SNMP manager.  
 
