@@ -33,11 +33,6 @@ Sabtu 23 Agustus 2025
      ![](IMAGES/oborcli.png)  
   Torch membantu admin melihat siapa yang mengirim/ menerima data, ke mana arah paket, dan seberapa besar bandwidth yang digunakan secara langsung.  
     
-# Bandwidth Test
-  Digunakan untuk menguji kecepatan koneksi antar dua perangkat Mikrotik. Tol ini penting untuk memastikan apakah kapasitas bandwidth sesuaid engan kontrak ISP atau kebutuhan internal.  
-     ![](IMAGES/)  
-     ![](IMAGES/)  
-
 # Traffic Flow
   Fitur monitoring berbasis protokol NetFlow. Dengan ini, alitar trafik dapat dikirim ke server collector untuk analisis lebih mendalam.  
   1. Masuk ke **IP > Traffic Flow**, klik Enable untuk mengaktifkan.
